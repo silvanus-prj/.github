@@ -13,3 +13,6 @@ protection authorities to efficiently monitor forest resources, to evaluate
 biodiversity, to generate more accurate fire risk indicators, and promote
 safety regulations among the local population affected by wildfire through
 awareness campaigns.
+
+Project webpage: https://silvanus-project.eu/
+
